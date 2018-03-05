@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tourist Attractions</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="malls">Malls</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="tourist_attraction">Tourist Attraction</string>
+    <string name="lake_address">Sector-1 Chandigarh, PIN-160001</string>
+    <string name="lake_name">Sukhna Lake</string>
+    <string name="garden_name">Rose Garden</string>
+    <string name="garden_address">Track 16B, Sector-16, Madhya Marg, Chandigarh, PIN-160016</string>
+    <string name="elante_address">Plot No. 177/178A, Purv Marg, Industrial Area Phase-1, MW Area, Chandigarh, Pin-160002</string>
+    <string name="elante_name">Elante Mall</string>
+    <string name="wavemall_name">Wave City Emporium Mall</string>
+    <string name="wave_address">143A, Purv Marg, Industrial Area Phase 2, Industrial Area Phase I, Chandigarh, PIN-160002</string>
+    <string name="JW_name">JW Marriott</string>
+    <string name="JW_address">Plot no: 6, Sector 35B, Dakshin Marg, Chandigarth, Chandigarh 160035</string>
+    <string name="lalit_name">The Lalit</string>
+    <string name="lalit_address">Rajiv Gandhi IT Park, DLF Commercial Complex, Chandigarh, 160101</string>
+    <string name="tgif_name">TGIF</string>
+    <string name="tgif_address">Sector, Madhya Marg, 9D, Sector 26 East, Chandigarh, 160021</string>
+    <string name="bq_name">Barbeque Nation</string>
+    <string name="bq_address">SCO 39, Madhya Marg, Block 2, Sector 26, Near Green Market Chowk, Chandigarh, 160019</string>
+</resources>

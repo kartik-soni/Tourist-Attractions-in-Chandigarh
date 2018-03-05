@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu">
+    <item
+        android:id="@+id/malls"
+        android:onClick="mallsIntent"
+        android:textSize="20sp"
+        android:title="@string/malls" />
+
+    <item
+        android:id="@+id/hotels"
+        android:onClick="hotelsIntent"
+        android:textSize="20sp"
+        android:title="@string/hotels" />
+
+    <item
+        android:id="@+id/restaurants"
+        android:onClick="restaurantsIntent"
+        android:textSize="20sp"
+        android:title="@string/restaurants" />
+
+    <item
+        android:id="@+id/places"
+        android:onClick="touristIntent"
+        android:textSize="20sp"
+        android:title="@string/tourist_attraction" />
+</menu>

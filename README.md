@@ -1,4 +1,4 @@
-# Tourist-Attractions-in-Chandigarh-Udacity-Project-3
+# Tourist-Attractions-in-Chandigarh
 
 - Project **Tour Guide** of Android Basics Nanodegree
 
